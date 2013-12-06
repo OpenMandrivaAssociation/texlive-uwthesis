@@ -6,7 +6,7 @@
 # catalog-version 6.13
 Name:		texlive-uwthesis
 Version:	6.13
-Release:	4
+Release:	5
 Summary:	University of Washington thesis class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uwthesis
