@@ -1,6 +1,6 @@
 Name:		texlive-uwthesis
 Version:	15878
-Release:	1
+Release:	2
 Summary:	University of Washington thesis class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uwthesis
