@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	University of Washington thesis class
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uwthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uwthesis
 License:	APACHE2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uwthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uwthesis.doc.r%{version}.tar.xz
